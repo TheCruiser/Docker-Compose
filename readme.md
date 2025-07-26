@@ -1,6 +1,22 @@
 ## A Simple MERN Stack Application
 
+<<<<<<< Updated upstream
 ### Create a network for the docker containers
+=======
+Note - To run this project using ```docker compose```, follow the below steps.
+
+Switch to the ```compose``` branch to learn the
+
+1. Implementation of ```Dockerfile``` for ```client``` and ```server```.
+2. Run the containers using ```Docker Compose```.
+
+Run it local without Docker
+Prerequisite
+
+Install ```npm```
+
+Start Server:
+>>>>>>> Stashed changes
 ```
 docker network create demo
 ```
