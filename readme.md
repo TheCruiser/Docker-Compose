@@ -24,3 +24,5 @@ cd mern/client
 npm install
 npm run dev
 ```
+![connection](image.png)
+### Front-end is talking to Back-end successfully.
